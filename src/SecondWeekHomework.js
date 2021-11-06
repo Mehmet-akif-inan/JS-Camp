@@ -77,3 +77,4 @@ function primeNumbers() {
     }
 }
 console.log(primeNumbers());
+//Mehmet Akif İnan.
